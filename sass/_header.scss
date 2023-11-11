@@ -12,11 +12,30 @@
 }
 
 .header__logo {
+
+
+
     padding: 30px 0;
 
     a {
+        font-family: 'Play', sans-serif;
         display: inline-block;
+        
+
+
     }
+
+    
+
+    
+}
+
+.header__logo-text{font-size: 15px;
+    font-family: 'Play', sans-serif;
+    color: red;
+    display: block;
+    text-transform: uppercase;
+    align-items: center;
 }
 
 .header__nav__option {
